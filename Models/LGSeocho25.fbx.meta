@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: c452f42080042034ba704be4c9307627
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25CeilingMaterial
+    second: {fileID: 2100000, guid: a2ac43854eb936b44a1ee8601f450d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25FloorMaterial
+    second: {fileID: 2100000, guid: 5ec5f843ce480964f96446a3540f2c90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25GlassFrostedMaterial
+    second: {fileID: 2100000, guid: a469d1a66bbbca7439b3651df9c5a490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25MetalMaterial
+    second: {fileID: 2100000, guid: f13c86285f3a9104098e8658e37e07d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25WallMaterial
+    second: {fileID: 2100000, guid: 0864c7dc344c3374f8227675356ab544, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25WoodMaterial
+    second: {fileID: 2100000, guid: 11381aa68cbd28047bafca9f2136c606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25blindMaterial
+    second: {fileID: 2100000, guid: 9e4064c67c75efd4baf4d05f92ba77c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1ElevatorIndicatorScreenMaterial
+    second: {fileID: 2100000, guid: 020c417f282207b44a77870849800b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1MetalMaterial
+    second: {fileID: 2100000, guid: a9e5830a2339f4f4cae660d61d118bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoGlassMaterial
+    second: {fileID: 2100000, guid: ee386497098d0354e931fcfb5ece214f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoLightHeadMaterial
+    second: {fileID: 2100000, guid: e94be48d554fea14aad894ca787d101b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoWallMarbleBMaterial
+    second: {fileID: 2100000, guid: 6080a4823c5336e43ae9ef6b57f3f15a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25CeilingDiffuse
+    second: {fileID: 2800000, guid: 1040ecde8a90780439dcf412f6cb1009, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25FloorDiffuse
+    second: {fileID: 2800000, guid: b71f192daf922204099d351c7ce54d5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25FloorNormal
+    second: {fileID: 2800000, guid: c35f5368604ac654a84900b09b25da5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25GlassFrostedDiffuse
+    second: {fileID: 2800000, guid: 35157d131d30d3b41a0988ba5a4a1bae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25MetalDiffuse
+    second: {fileID: 2800000, guid: 5696299345e3b274d94f7050529ae7de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25MetalNormal
+    second: {fileID: 2800000, guid: a986fd30a95273e419b453f4da865cfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25WallDiffuse
+    second: {fileID: 2800000, guid: 3a475dd1bb664134b859ee87a1decb15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25WoodDiffuse
+    second: {fileID: 2800000, guid: c34dda781fac92f488104580ee65a5cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho25blindDiffuse
+    second: {fileID: 2800000, guid: 7f520914d71e30e4596159a447b80fab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1MetalDiffuse
+    second: {fileID: 2800000, guid: e1e0cb80b4ab22248b73a205f5a08f0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoWallMarbleBDiffuse
+    second: {fileID: 2800000, guid: c45d95c17613a274abe133e44257743f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoWallMarbleBNormal
+    second: {fileID: 2800000, guid: ae88d3bd763ad4448afc84a5ac912616, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

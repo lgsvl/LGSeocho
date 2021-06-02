@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 001a57904dce47440ac6df7274e8f497
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B1_base_GS25_wall_01_1_UV_1_2
+    second: {fileID: 2100000, guid: b599cddc5fae9934e9124746ba162626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B1_base_GS25_wall_01_2_UV1
+    second: {fileID: 2100000, guid: f28dbc49246746241975129db89cf2e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B1_glass_default2
+    second: {fileID: 2100000, guid: da64132b9a15db549a79c5757a2e4cf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho01FloorMaterial
+    second: {fileID: 2100000, guid: 3de06e056c0d7364eaa5fbf75b9d7923, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeMenuMaterial
+    second: {fileID: 2100000, guid: 09681a295eb19f046884ad900c73a508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafePaintingMaterial
+    second: {fileID: 2100000, guid: bc1c739fdfee65b4c8d709e2b572190e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafePlasticMaterial
+    second: {fileID: 2100000, guid: 7c396dcb3bc8ccf469e348d1b5787601, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeSignMaterial
+    second: {fileID: 2100000, guid: 224b82b4d856b2a4a8b7d25216f0c28e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeWallBeigeMaterial
+    second: {fileID: 2100000, guid: d6bdc3f2f6abc0a43a58f7a18b877788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeWallBrownMaterial
+    second: {fileID: 2100000, guid: 2450f3d5a374c254abe7a0f06f26364f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeWallTileMaterial
+    second: {fileID: 2100000, guid: b3fd1e36185a2bd46ac5d41a035d50ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeWoodMaterial
+    second: {fileID: 2100000, guid: 963795ef7b8df894fb6e4889351a8adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CeilingMaterial
+    second: {fileID: 2100000, guid: 76814401ad5c6a246af34cc52fd7bd7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1ConvenienceStoreAirConditionalMaterial
+    second: {fileID: 2100000, guid: 8448e8a7fa348804ab34572cc0257a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1ConvenienceStoreCigarettsADMaterial
+    second: {fileID: 2100000, guid: 39fb974b2cf269148a537d771f9715d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1ConvenienceStorePlasticMaterial
+    second: {fileID: 2100000, guid: 03bf04ff3e95bd84f9be81bc5d90df44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1ConvenienceStoreWallMaterial
+    second: {fileID: 2100000, guid: cfc71831ee6f18e4e90db2ea9059e6f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1DoorMetalMaterial
+    second: {fileID: 2100000, guid: 7091c591afe58b649a21790a428edf1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1ElevatorIndicatorScreenMaterial
+    second: {fileID: 2100000, guid: 020c417f282207b44a77870849800b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1EscalatorStairsMaterial
+    second: {fileID: 2100000, guid: 12b6d88174576de4ab307415af4a54fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1EscalatorStepMaterial
+    second: {fileID: 2100000, guid: 115a2e458655a6c40832917131a0a1d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1FloorMaterial
+    second: {fileID: 2100000, guid: 6d5d6ff12ee973e4dbfe6d7fc4aceb0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1GlassTintMaterial
+    second: {fileID: 2100000, guid: 48bc9caa74a13af4e90adb8ecda14b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1LightMetalMaterial
+    second: {fileID: 2100000, guid: 0c4066b290bbc11479f221bcec8f6c99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1MarbleMaterial
+    second: {fileID: 2100000, guid: ccc097995d20c5542b11fdaced17e835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1MetalMaterial
+    second: {fileID: 2100000, guid: a9e5830a2339f4f4cae660d61d118bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1PebbleMaterial
+    second: {fileID: 2100000, guid: 10400d4adbdc4b74480e0a81207e90e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1StoreSignMaterial
+    second: {fileID: 2100000, guid: 124887529a80b224fbb680853923a152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1WallBlockMaterial
+    second: {fileID: 2100000, guid: 4e6fe0db6ba46084cb0ccbaddae07f07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1WallDecoMaterial
+    second: {fileID: 2100000, guid: fc5148087c8614245bebace1f02e9bc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1WallMaterial
+    second: {fileID: 2100000, guid: d3093a103f6747e43aaf7f6f02089bc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoGlassMaterial
+    second: {fileID: 2100000, guid: ee386497098d0354e931fcfb5ece214f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoLightHeadMaterial
+    second: {fileID: 2100000, guid: e94be48d554fea14aad894ca787d101b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoRubberMaterial
+    second: {fileID: 2100000, guid: 3afd1aa640d31594fbb25d074362e803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoWallMarbleBMaterial
+    second: {fileID: 2100000, guid: 6080a4823c5336e43ae9ef6b57f3f15a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeocho01FloorDiffuse
+    second: {fileID: 2800000, guid: 9bb7bf921210b3c4fb5297c3d92a1ba1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeMenuDiffuse
+    second: {fileID: 2800000, guid: 9de8c57479a8f224d8b0596698ed6e17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafePlasticDiffuse
+    second: {fileID: 2800000, guid: 39c1a7d7800d7184f97c215227f91b36, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeSignDoffise
+    second: {fileID: 2800000, guid: e37de7cadb3f099418a6eefc3957c3d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeWallBeigeDiffuse
+    second: {fileID: 2800000, guid: 6c11adfdbed04c64a8a450cdd14638a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeWallBrownDiffuse
+    second: {fileID: 2800000, guid: f76764eeb8a5b444b96f79c0f07ee40e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeWallTileDiffuse
+    second: {fileID: 2800000, guid: 00ff38e6df3ac1f4f8e693a034dd75ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CafeWoodDiffuse
+    second: {fileID: 2800000, guid: 1041569adcb1286468a6603ee3608067, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1CeilingDiffuse
+    second: {fileID: 2800000, guid: c267e12676fa07e4f9531a4c3894d2ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1ConvenienceStoreAirConditionerDiffuse
+    second: {fileID: 2800000, guid: 3684da1ff0f7eab4da5fa4df2baedbd5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1ConvenienceStoreCigarettsADDiffuse
+    second: {fileID: 2800000, guid: d4be5e6b8aceae34ea366cc8d46cc680, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1ConvenienceStorePlasticDiffuse
+    second: {fileID: 2800000, guid: ac48e877078ad564fbf0071769db12cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1ConvenienceStoreWallDiffuse
+    second: {fileID: 2800000, guid: 85bfd6280712ea44689cd0e338f2e6c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1DoorMetalDiffuse
+    second: {fileID: 2800000, guid: a2f4a069cfac107458ccda3ae4df93ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1DoorMetalNormal
+    second: {fileID: 2800000, guid: 68fc9cc9f1792dd4bb7adfe889a89356, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1EscalatorStairsDiffuse
+    second: {fileID: 2800000, guid: f767388930238ce42aa8e7fd9f186e6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1EscalatorStairsNormal
+    second: {fileID: 2800000, guid: a06f71c85ac2cf54986a14152a756797, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1EscalatorStepDiffuse
+    second: {fileID: 2800000, guid: 1a312c49b27b55343a43f2b05703e191, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1FloorDiffuse
+    second: {fileID: 2800000, guid: da32d3e924d307f498fee81f2a55fa4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1FloorNormal
+    second: {fileID: 2800000, guid: 0d6d958763e1684428821dbd80ed5e97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1GlassTintDiffuse
+    second: {fileID: 2800000, guid: 0933f9af1df36524eb667ce01f98b3df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1LightMetalDiffuse
+    second: {fileID: 2800000, guid: 526bfe6d1dba57e42876afcce3cfd243, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1MarbleDiffuse
+    second: {fileID: 2800000, guid: 9130aad0dbdbbf2468fc1edbb14e9346, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1MetalDiffuse
+    second: {fileID: 2800000, guid: 92738fb7032d1d445bcba0b49c79480a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1PebbleDiffuse
+    second: {fileID: 2800000, guid: 16456b5a30cbb344f9792e37e197c0c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1StoreSignDiffuse
+    second: {fileID: 2800000, guid: 9999083db48226349aae4605fb233795, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1WallBlockDiffuse
+    second: {fileID: 2800000, guid: 66b608c57243f174c9dae99664b1970f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1WallBlockNormal
+    second: {fileID: 2800000, guid: 2ffea2c86e0ab5840b45ed85e8a732f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1WallDecoDiffuse
+    second: {fileID: 2800000, guid: 8f1b671c359161945a49ca7323cb3501, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1WallDecoNormal
+    second: {fileID: 2800000, guid: 14c14a2c7811c1d4ab1d030eb799c605, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoB1WallDiffuse
+    second: {fileID: 2800000, guid: 48ad36681999c0b4d9c90047931f3dc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoRubberDiffuse
+    second: {fileID: 2800000, guid: 6bbe77f9e4032b944949968059c1740c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoWallMarbleBDiffuse
+    second: {fileID: 2800000, guid: 33a578073ea004c4090e1f589655019a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LGSeochoWallMarbleBNormal
+    second: {fileID: 2800000, guid: 379c31da41750ec47b384d7afc70f0ae, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
