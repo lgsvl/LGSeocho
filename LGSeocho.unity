@@ -3271,7 +3271,7 @@ PrefabInstance:
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
       propertyPath: m_Name
-      value: LGSeochoElevator (2)
+      value: LGSeochoElevator_2
       objectReference: {fileID: 0}
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
@@ -18943,7 +18943,7 @@ PrefabInstance:
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
       propertyPath: m_Name
-      value: LGSeochoElevator (1)
+      value: LGSeochoElevator_1
       objectReference: {fileID: 0}
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
@@ -52218,6 +52218,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1431173281}
+  - component: {fileID: 1431173282}
   m_Layer: 0
   m_Name: LGSeocho
   m_TagString: Untagged
@@ -52243,6 +52244,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1431173282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1431173280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a207e365b4ff0a1ba98719a18f39933, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: '<plugin name="ElevatorSystem" filename="libElevatorSystem.so">   <system_name>ElevatorSystem</system_name>  
+    <elevator prefix_name="LGSeochoElevator_" speed="3">     <floor>LGSeochoElevatorFloor</floor>    
+    <doors speed="0.6" closing_timer="7.0">       <inside open_offset="0.567">        
+    <door name="left">LGSeochoElevatorInnerDoorLeft</door>         <door name="right">LGSeochoElevatorInnerDoorRight</door>      
+    </inside>       <outside open_offset="0.567">         <door name="left">LGSeochoElevatorDoorOuterLeft</door>        
+    <door name="right">LGSeochoElevatorDoorOuterRight</door>       </outside>    
+    </doors>   </elevator>   <floors>     <floor>       <name>B1F</name>       <collider>LGSeochoB1Floor</collider>    
+    </floor>     <floor>       <name>25F</name>       <collider>LGSeocho25Floor</collider>    
+    </floor>   </floors> </plugin>  '
 --- !u!1001 &1432815334
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -56976,7 +56998,7 @@ PrefabInstance:
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
       propertyPath: m_Name
-      value: LGSeochoElevator (5)
+      value: LGSeochoElevator_5
       objectReference: {fileID: 0}
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
@@ -59306,7 +59328,7 @@ PrefabInstance:
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
       propertyPath: m_Name
-      value: LGSeochoElevator (4)
+      value: LGSeochoElevator_4
       objectReference: {fileID: 0}
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
@@ -71530,7 +71552,7 @@ PrefabInstance:
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
       propertyPath: m_Name
-      value: LGSeochoElevator (3)
+      value: LGSeochoElevator_3
       objectReference: {fileID: 0}
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
@@ -77744,7 +77766,7 @@ PrefabInstance:
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
       propertyPath: m_Name
-      value: LGSeochoElevator
+      value: LGSeochoElevator_0
       objectReference: {fileID: 0}
     - target: {fileID: 4886408742970188697, guid: 19864aa668191644a9c68e303a43fe19,
         type: 3}
@@ -77933,10 +77955,35 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2057596834657610542, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
+      objectReference: {fileID: 0}
     - target: {fileID: 2115647153202943751, guid: 33d9181d3bf2cd042830d9a32c0818ef,
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2260617489073806055, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
+      objectReference: {fileID: 0}
+    - target: {fileID: 3269747395172077520, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543016892547297077, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
+      objectReference: {fileID: 0}
+    - target: {fileID: 3576947895929261404, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
       objectReference: {fileID: 0}
     - target: {fileID: 4055860397065909448, guid: 33d9181d3bf2cd042830d9a32c0818ef,
         type: 3}
@@ -77947,6 +77994,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4796200558435090250, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
+      objectReference: {fileID: 0}
+    - target: {fileID: 4821930292655868407, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
       objectReference: {fileID: 0}
     - target: {fileID: 5208000056854907283, guid: 33d9181d3bf2cd042830d9a32c0818ef,
         type: 3}
@@ -78008,6 +78065,11 @@ PrefabInstance:
       propertyPath: m_CastShadows
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5318444281388858574, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
+      objectReference: {fileID: 0}
     - target: {fileID: 5397782086315399634, guid: 33d9181d3bf2cd042830d9a32c0818ef,
         type: 3}
       propertyPath: m_Name
@@ -78018,6 +78080,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5484775082486158007, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
+      objectReference: {fileID: 0}
     - target: {fileID: 5522831300856256250, guid: 33d9181d3bf2cd042830d9a32c0818ef,
         type: 3}
       propertyPath: m_CastShadows
@@ -78027,6 +78094,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6164551547516573429, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
+      objectReference: {fileID: 0}
+    - target: {fileID: 6475251915318034066, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
       objectReference: {fileID: 0}
     - target: {fileID: 6837653011549316329, guid: 33d9181d3bf2cd042830d9a32c0818ef,
         type: 3}
@@ -78042,6 +78119,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9151637701919120675, guid: 33d9181d3bf2cd042830d9a32c0818ef,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33d9181d3bf2cd042830d9a32c0818ef, type: 3}
@@ -78090,6 +78172,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1431173281}
     m_Modifications:
+    - target: {fileID: 238183150454951439, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
+      objectReference: {fileID: 0}
+    - target: {fileID: 355491365764678083, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
+      objectReference: {fileID: 0}
+    - target: {fileID: 452237541030711748, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
+      objectReference: {fileID: 0}
     - target: {fileID: 708500787829423903, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
         type: 3}
       propertyPath: m_IsActive
@@ -78114,6 +78211,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3606392988820017095, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
+      objectReference: {fileID: 0}
+    - target: {fileID: 3608922268753520584, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
+      objectReference: {fileID: 0}
+    - target: {fileID: 3628518466433876361, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
       objectReference: {fileID: 0}
     - target: {fileID: 3807531211179569561, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
         type: 3}
@@ -78155,15 +78267,45 @@ PrefabInstance:
       propertyPath: m_RenderingLayerMask
       value: 257
       objectReference: {fileID: 0}
+    - target: {fileID: 5722975863259588767, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
+      objectReference: {fileID: 0}
     - target: {fileID: 5970578636624987970, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
         type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6479029963265809930, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
+      objectReference: {fileID: 0}
+    - target: {fileID: 6678972290750921527, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
+      objectReference: {fileID: 0}
+    - target: {fileID: 7410717787253480849, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
+      objectReference: {fileID: 0}
     - target: {fileID: 7643555342182685847, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8276279037481868304, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterLeft
+      objectReference: {fileID: 0}
+    - target: {fileID: 8711119125115800852, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
+        type: 3}
+      propertyPath: m_Name
+      value: LGSeochoElevatorDoorOuterRight
       objectReference: {fileID: 0}
     - target: {fileID: 8835780539150587116, guid: 8435d1b05e2b1dd4cb81e2d012c78337,
         type: 3}
