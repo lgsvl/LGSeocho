@@ -121,10 +121,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4825452315467242117, guid: 921c0800de759f242b7a2ccba2a9c138,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4264988632639414185, guid: 921c0800de759f242b7a2ccba2a9c138,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: -3767410000424092151, guid: 921c0800de759f242b7a2ccba2a9c138,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 921c0800de759f242b7a2ccba2a9c138,
         type: 3}
       propertyPath: m_Name
       value: LGSeocho25Table
+      objectReference: {fileID: 0}
+    - target: {fileID: 5709412122220235705, guid: 921c0800de759f242b7a2ccba2a9c138,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 921c0800de759f242b7a2ccba2a9c138, type: 3}

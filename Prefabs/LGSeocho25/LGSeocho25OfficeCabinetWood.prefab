@@ -51,6 +51,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 95914415454053843}
     m_Modifications:
+    - target: {fileID: -8810492442637296848, guid: 8cd0364a9bfe2c3488743c7df111ebee,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8cd0364a9bfe2c3488743c7df111ebee,
         type: 3}
       propertyPath: m_RootOrder
@@ -106,10 +111,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7518709897208012603, guid: 8cd0364a9bfe2c3488743c7df111ebee,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3767410000424092151, guid: 8cd0364a9bfe2c3488743c7df111ebee,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8cd0364a9bfe2c3488743c7df111ebee,
         type: 3}
       propertyPath: m_Name
       value: LGSeocho25OfficeCabinetWood
+      objectReference: {fileID: 0}
+    - target: {fileID: 5709412122220235705, guid: 8cd0364a9bfe2c3488743c7df111ebee,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8cd0364a9bfe2c3488743c7df111ebee, type: 3}

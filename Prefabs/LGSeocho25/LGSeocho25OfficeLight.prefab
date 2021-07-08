@@ -17,7 +17,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1447672567890662460
 Transform:
   m_ObjectHideFlags: 0
@@ -310,10 +310,40 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5332375556243939794, guid: f28c477b1f0f65642aa439b35b53d820,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 112544473355691715, guid: f28c477b1f0f65642aa439b35b53d820,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f28c477b1f0f65642aa439b35b53d820,
         type: 3}
       propertyPath: m_Name
       value: LGSeocho25OfficeLight
+      objectReference: {fileID: 0}
+    - target: {fileID: 2560911024234914437, guid: f28c477b1f0f65642aa439b35b53d820,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2560911024234914437, guid: f28c477b1f0f65642aa439b35b53d820,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: 3717546589068311856, guid: f28c477b1f0f65642aa439b35b53d820,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3717546589068311856, guid: f28c477b1f0f65642aa439b35b53d820,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f28c477b1f0f65642aa439b35b53d820, type: 3}

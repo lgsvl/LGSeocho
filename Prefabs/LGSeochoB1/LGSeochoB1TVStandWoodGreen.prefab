@@ -106,6 +106,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3173557095298620666, guid: 4f286d6dbbb866f4784d0e6d1de3399b,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3173557095298620666, guid: 4f286d6dbbb866f4784d0e6d1de3399b,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 128
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4f286d6dbbb866f4784d0e6d1de3399b,
         type: 3}
       propertyPath: m_Name

@@ -51,6 +51,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6311947135073430154}
     m_Modifications:
+    - target: {fileID: -8879281147760869021, guid: a8546e3cb2ccf3d4893d1efa21352bef,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8879281147760869021, guid: a8546e3cb2ccf3d4893d1efa21352bef,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 128
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a8546e3cb2ccf3d4893d1efa21352bef,
         type: 3}
       propertyPath: m_RootOrder

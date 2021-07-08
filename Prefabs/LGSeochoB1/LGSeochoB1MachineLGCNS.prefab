@@ -111,6 +111,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: LGSeochoB1MachineLGCNS
       objectReference: {fileID: 0}
+    - target: {fileID: 6473573414318349489, guid: c713ec15f45a66e408040810552c5d39,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6473573414318349489, guid: c713ec15f45a66e408040810552c5d39,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 8950925987468647392, guid: c713ec15f45a66e408040810552c5d39,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8950925987468647392, guid: c713ec15f45a66e408040810552c5d39,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 128
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c713ec15f45a66e408040810552c5d39, type: 3}
 --- !u!4 &4022942662371923641 stripped

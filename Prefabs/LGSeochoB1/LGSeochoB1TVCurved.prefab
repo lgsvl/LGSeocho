@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!65 &2434706147524845599
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3431846919869843947}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.692631, y: 1.6738732, z: 0.31249833}
+  m_Center: {x: -0.00000011920929, y: 0.000000059604645, z: 0.000000022351742}
 --- !u!1 &6124639073326540335
 GameObject:
   m_ObjectHideFlags: 0
@@ -31,19 +44,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &2434706147524845599
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3431846919869843947}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2.692631, y: 1.6738732, z: 0.31249833}
-  m_Center: {x: -0.00000011920929, y: 0.000000059604645, z: 0.000000022351742}
 --- !u!1001 &8644868816981706164
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -110,6 +110,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LGSeochoB1TVCurved
+      objectReference: {fileID: 0}
+    - target: {fileID: 1921903314435023675, guid: 468c514b57d21124aa4c6de899f3aa36,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1921903314435023675, guid: 468c514b57d21124aa4c6de899f3aa36,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 8589959640277078478, guid: 468c514b57d21124aa4c6de899f3aa36,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8589959640277078478, guid: 468c514b57d21124aa4c6de899f3aa36,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 128
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 468c514b57d21124aa4c6de899f3aa36, type: 3}

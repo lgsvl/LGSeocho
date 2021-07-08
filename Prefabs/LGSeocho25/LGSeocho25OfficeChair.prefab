@@ -106,10 +106,40 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7475089062239430023, guid: 04e7e580189152644b4a2a531dd72d91,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: -3767410000424092151, guid: 04e7e580189152644b4a2a531dd72d91,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: -3373073008987324190, guid: 04e7e580189152644b4a2a531dd72d91,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: -245545454480888228, guid: 04e7e580189152644b4a2a531dd72d91,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 04e7e580189152644b4a2a531dd72d91,
         type: 3}
       propertyPath: m_Name
       value: LGSeocho25OfficeChair
+      objectReference: {fileID: 0}
+    - target: {fileID: 5709412122220235705, guid: 04e7e580189152644b4a2a531dd72d91,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8918926315634511825, guid: 04e7e580189152644b4a2a531dd72d91,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 04e7e580189152644b4a2a531dd72d91, type: 3}

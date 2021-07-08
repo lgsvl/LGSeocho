@@ -64,6 +64,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6999376228373394953}
     m_Modifications:
+    - target: {fileID: -8810492442637296848, guid: fc19207149b07be45aff3a43e944814b,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fc19207149b07be45aff3a43e944814b,
         type: 3}
       propertyPath: m_RootOrder
@@ -119,10 +124,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7518709897208012603, guid: fc19207149b07be45aff3a43e944814b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3767410000424092151, guid: fc19207149b07be45aff3a43e944814b,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: -3373073008987324190, guid: fc19207149b07be45aff3a43e944814b,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: -245545454480888228, guid: fc19207149b07be45aff3a43e944814b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: fc19207149b07be45aff3a43e944814b,
         type: 3}
       propertyPath: m_Name
       value: LGSeocho25OfficeDesk
+      objectReference: {fileID: 0}
+    - target: {fileID: 5709412122220235705, guid: fc19207149b07be45aff3a43e944814b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc19207149b07be45aff3a43e944814b, type: 3}

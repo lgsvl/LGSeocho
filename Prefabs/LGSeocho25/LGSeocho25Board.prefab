@@ -38,6 +38,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4348477102893699799}
     m_Modifications:
+    - target: {fileID: -8730354231017633925, guid: 5befa3d1ecb14ba43b98ca3e2297a229,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5befa3d1ecb14ba43b98ca3e2297a229,
         type: 3}
       propertyPath: m_RootOrder
@@ -93,10 +98,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3767410000424092151, guid: 5befa3d1ecb14ba43b98ca3e2297a229,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: 496716577828964316, guid: 5befa3d1ecb14ba43b98ca3e2297a229,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5befa3d1ecb14ba43b98ca3e2297a229,
         type: 3}
       propertyPath: m_Name
       value: LGSeocho25Board
+      objectReference: {fileID: 0}
+    - target: {fileID: 5709412122220235705, guid: 5befa3d1ecb14ba43b98ca3e2297a229,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5befa3d1ecb14ba43b98ca3e2297a229, type: 3}

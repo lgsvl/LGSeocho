@@ -111,6 +111,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: LGSeochoB1CafeChair
       objectReference: {fileID: 0}
+    - target: {fileID: 1964218516792448152, guid: acb92fb6bb9ceae4dbd4d3f5eae323fb,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1964218516792448152, guid: acb92fb6bb9ceae4dbd4d3f5eae323fb,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443770018883736063, guid: acb92fb6bb9ceae4dbd4d3f5eae323fb,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443770018883736063, guid: acb92fb6bb9ceae4dbd4d3f5eae323fb,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 128
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: acb92fb6bb9ceae4dbd4d3f5eae323fb, type: 3}
 --- !u!4 &4552671892228477308 stripped

@@ -111,6 +111,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: LGSeochoB1TVStandWoodRedLong
       objectReference: {fileID: 0}
+    - target: {fileID: 4073535196912984459, guid: e6408648977f4b645bf473088e33f8f6,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4073535196912984459, guid: e6408648977f4b645bf473088e33f8f6,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 128
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6408648977f4b645bf473088e33f8f6, type: 3}
 --- !u!4 &5098769709439494924 stripped

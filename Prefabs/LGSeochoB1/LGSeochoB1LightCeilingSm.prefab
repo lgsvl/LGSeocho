@@ -93,10 +93,40 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2886090604215346665, guid: b6b9bc98270be954a85a74cb19bf1367,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2886090604215346665, guid: b6b9bc98270be954a85a74cb19bf1367,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2886090604215346665, guid: b6b9bc98270be954a85a74cb19bf1367,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 128
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b6b9bc98270be954a85a74cb19bf1367,
         type: 3}
       propertyPath: m_Name
       value: LGSeochoB1LightCeilingSm
+      objectReference: {fileID: 0}
+    - target: {fileID: 2907924728906900511, guid: b6b9bc98270be954a85a74cb19bf1367,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2907924728906900511, guid: b6b9bc98270be954a85a74cb19bf1367,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2907924728906900511, guid: b6b9bc98270be954a85a74cb19bf1367,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 128
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b6b9bc98270be954a85a74cb19bf1367, type: 3}

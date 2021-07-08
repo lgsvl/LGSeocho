@@ -106,10 +106,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4825452315467242117, guid: edfbea71b8c17da4aa19682ac5b7c00f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4264988632639414185, guid: edfbea71b8c17da4aa19682ac5b7c00f,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: -3767410000424092151, guid: edfbea71b8c17da4aa19682ac5b7c00f,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 321
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: edfbea71b8c17da4aa19682ac5b7c00f,
         type: 3}
       propertyPath: m_Name
       value: LGSeocho25OfficeCabinetDeep
+      objectReference: {fileID: 0}
+    - target: {fileID: 5709412122220235705, guid: edfbea71b8c17da4aa19682ac5b7c00f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edfbea71b8c17da4aa19682ac5b7c00f, type: 3}
