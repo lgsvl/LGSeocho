@@ -1182,6 +1182,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -6989798316362111812, guid: c452f42080042034ba704be4c9307627,
         type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6989798316362111812, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
       objectReference: {fileID: 0}
@@ -1214,6 +1219,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 83
+      objectReference: {fileID: 0}
+    - target: {fileID: -6648592619241042065, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -6648592619241042065, guid: c452f42080042034ba704be4c9307627,
         type: 3}
@@ -1324,6 +1334,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: -5903374261626560229, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -5903374261626560229, guid: c452f42080042034ba704be4c9307627,
         type: 3}
@@ -1574,6 +1589,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: -3767272164592317409, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -3767272164592317409, guid: c452f42080042034ba704be4c9307627,
         type: 3}
@@ -1832,6 +1852,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -2490040901256906797, guid: c452f42080042034ba704be4c9307627,
         type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2490040901256906797, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
       objectReference: {fileID: 0}
@@ -1987,6 +2012,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -1671520646478553041, guid: c452f42080042034ba704be4c9307627,
         type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1671520646478553041, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
       objectReference: {fileID: 0}
@@ -1994,6 +2024,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: -1601827795106003276, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -1601827795106003276, guid: c452f42080042034ba704be4c9307627,
         type: 3}
@@ -2014,6 +2049,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: -1552770264985278048, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -1552770264985278048, guid: c452f42080042034ba704be4c9307627,
         type: 3}
@@ -2259,6 +2299,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 83
+      objectReference: {fileID: 0}
+    - target: {fileID: -111363157906445855, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -111363157906445855, guid: c452f42080042034ba704be4c9307627,
         type: 3}
@@ -2552,6 +2597,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1510394481289661401, guid: c452f42080042034ba704be4c9307627,
         type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1510394481289661401, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
       objectReference: {fileID: 0}
@@ -2604,6 +2654,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 83
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897474600678760313, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1897474600678760313, guid: c452f42080042034ba704be4c9307627,
         type: 3}
@@ -2698,7 +2753,7 @@ PrefabInstance:
     - target: {fileID: 2414740105479143741, guid: c452f42080042034ba704be4c9307627,
         type: 3}
       propertyPath: m_CastShadows
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2414740105479143741, guid: c452f42080042034ba704be4c9307627,
         type: 3}
@@ -2802,6 +2857,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2923211049124156557, guid: c452f42080042034ba704be4c9307627,
         type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2923211049124156557, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
       objectReference: {fileID: 0}
@@ -2867,6 +2927,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3425452644152579284, guid: c452f42080042034ba704be4c9307627,
         type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3425452644152579284, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
       objectReference: {fileID: 0}
@@ -2917,8 +2982,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3684576131731306801, guid: c452f42080042034ba704be4c9307627,
         type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3684576131731306801, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: 3753399839478392550, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3753399839478392550, guid: c452f42080042034ba704be4c9307627,
         type: 3}
@@ -3012,6 +3087,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4131650599104088228, guid: c452f42080042034ba704be4c9307627,
         type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4131650599104088228, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
       objectReference: {fileID: 0}
@@ -3029,6 +3109,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 83
+      objectReference: {fileID: 0}
+    - target: {fileID: 4190658021734929557, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4190658021734929557, guid: c452f42080042034ba704be4c9307627,
         type: 3}
@@ -3329,6 +3414,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: 5647040391088756749, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5647040391088756749, guid: c452f42080042034ba704be4c9307627,
         type: 3}
@@ -3849,6 +3939,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RenderingLayerMask
       value: 321
+      objectReference: {fileID: 0}
+    - target: {fileID: 9086864202793703572, guid: c452f42080042034ba704be4c9307627,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9086864202793703572, guid: c452f42080042034ba704be4c9307627,
         type: 3}

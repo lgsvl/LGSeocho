@@ -27,7 +27,7 @@ GameObject:
   m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 83
   m_IsActive: 1
 --- !u!4 &6878689556858026322
 Transform:
@@ -115,6 +115,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CoffeeWhite
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 98011792ef87e3c41a16b99af03c5328,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 83
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 98011792ef87e3c41a16b99af03c5328, type: 3}

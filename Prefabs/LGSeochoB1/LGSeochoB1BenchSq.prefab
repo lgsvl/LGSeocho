@@ -27,7 +27,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 83
   m_IsActive: 1
 --- !u!4 &843921010799742675
 Transform:
@@ -116,10 +116,20 @@ PrefabInstance:
       propertyPath: m_RenderingLayerMask
       value: 128
       objectReference: {fileID: 0}
+    - target: {fileID: 249288168638077609, guid: 023545fb53bd93b428d3d85953467b61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 83
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 023545fb53bd93b428d3d85953467b61,
         type: 3}
       propertyPath: m_Name
       value: LGSeochoB1BenchSq
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 023545fb53bd93b428d3d85953467b61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 83
       objectReference: {fileID: 0}
     - target: {fileID: 2171669114800456148, guid: 023545fb53bd93b428d3d85953467b61,
         type: 3}
@@ -130,6 +140,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RenderingLayerMask
       value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 8239935290866563304, guid: 023545fb53bd93b428d3d85953467b61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 83
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 023545fb53bd93b428d3d85953467b61, type: 3}
