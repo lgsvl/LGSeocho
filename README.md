@@ -1,13 +1,15 @@
-# sample sdf resources and assets for CLOiSim
+# LGSeocho 
+
+This repository contains the code and assets for a sample 3D environment for use with SVL Simulator.
+
+The LGSeocho map is a Digital Twin environment of a real-world indoor office environment with multiple floors, elevators, escalators, shops, pillars, ceiling lights, outdoor lights, etc. This map can be used for Robotic simulation purposes for indoor robots like [LGCloi](https://wise.svlsimulator.com/vehicles/profile/20609b67-6dbd-40ad-9b46-e6bc455278ed)
+
+The LGSeocho environment has been derived from [CloiSim](https://github.com/lge-ros2/cloisim) project using resources from [sample_resources](https://github.com/lge-ros2/sample_resources).
+
+## sample sdf resources and assets for CLOiSim
 
 ![CLOiSim World](https://user-images.githubusercontent.com/21001946/81628814-9c553580-943c-11ea-9ca4-e91412580e8a.png)
 
-sample world and model files in SDF for multi-robot-simulator
+## License
 
-CLOI Porter with several sub-parts and world for sample
-
-Enjoy with 'lg_seocho.world' file
-
-Some of collada resources are imported from ![gazebo resources](https://github.com/osrf/gazebo/tree/gazebo11/media/models) for actors
-
-![CLOiSim World_with_actors](https://user-images.githubusercontent.com/21001946/111899878-9e335080-8a72-11eb-898f-55e1f7554abb.png)
+This software contains code licensed as described in LICENSE.
