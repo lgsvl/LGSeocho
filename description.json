@@ -2,7 +2,7 @@
   "id": "26546191-86e8-4b53-9432-1cecbbd95c87",
   "name": "LGSeocho",
   "accessType": "public",
-  "description": "The LGSeocho map is a Digital Twin environment of a real-world indoor office environment with multiple floors, elevators, escalators, shops, pillars, ceiling lights, outdoor lights, etc. This map can be used for Robotic simulation purposes for indoor robots like [LGCloi](/vehicles/profile/20609b67-6dbd-40ad-9b46-e6bc455278ed)",
+  "description": "The LGSeocho map is a Digital Twin environment of a real-world indoor office environment with multiple floors, elevators, escalators, shops, pillars, ceiling lights, outdoor lights, etc. This map can be used for Robotic simulation purposes for indoor robots like [LGCloi](/vehicles/profile/20609b67-6dbd-40ad-9b46-e6bc455278ed).\nDownload a costmap for the LGSeocho environment to be used for locatization and planning: [seocho.yaml](https://github.com/lgsvl/svl_robot_bringup/blob/master/maps/seocho.yaml).",
   "licenseName": "LG Content",
   "copyright": "LG Electronics Inc.",
   "tags": [
